@@ -1,4 +1,4 @@
-export const TOKEN_CONTRACT_ADDRESS = "https://github.com/zahraMgithub/myToken";
+export const TOKEN_CONTRACT_ADDRESS = "0x7694c8fd60b198eed42d53b386b37157d3c3af39";
 export const TOKEN_CONTRACT_ABI = [
 	{
 		"anonymous": false,
